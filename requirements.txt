@@ -1,0 +1,10 @@
+arviz
+datasets
+numpy
+pandas
+pymc
+scipy
+sentence-transformers
+scikit-learn
+tqdm
+umap-learn
